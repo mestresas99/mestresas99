@@ -1,4 +1,5 @@
 ### Hi there, I am Pablo Mestre 👋
+Computer Engineer
 
 <!--
 **mestresas99/mestresas99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
